@@ -22,7 +22,7 @@ function App() {
   // const counterOnDom = {
   //     return( {array.map((counter, i) => <Counter key={i} appName={counter.appName} initalValue={counter.initialValue}/>)
   //     )
-  //   }
+  //  }
   
   return(
     <>
